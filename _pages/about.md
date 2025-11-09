@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-I'm a first year undergraduate student from MPU. My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
 
-
-
+# About Me
+* I am a undergraduate student in MPU

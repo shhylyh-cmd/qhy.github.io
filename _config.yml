@@ -33,16 +33,15 @@ author:
   email            : "3329527442@qq.com" 
 
   # Academic websites
-  academia         : https://qhy.github.io
-  arxiv            : https://qhy.github.io
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : https://qhy.github.io
-  impactstory      : https://qhy.github.io
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : https://qhy.github.io
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : https://qhy.github.io
-  scopus           : https://qhy.github.io
+  academia         : #https://qhy.github.io
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  inspire-hep      : #https://qhy.github.io
+  impactstory      : #https://qhy.github.io
+  orcid            : #"https://orcid.org/yourorcidurl"
+  semantic         : #https://qhy.github.io
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : #https://qhy.github.io
+  scopus           : #https://qhy.github.io
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
